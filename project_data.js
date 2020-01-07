@@ -1,13 +1,6 @@
 var project_data = [
 
 {
-  title: "Bootstrap Website",
-  description: "Bootstrap class project",
-  technologies: ['HTML', 'CSS', 'JavaScript'],
-  date: '02/09/2019',
-  project_url: 'https://dkahl3.github.io/it202-project1/',
-  source_url: 'https://github.com/dkahl3/it202-project1'
-},{
   title: "AJAX/Google Map PWA",
   description: "display information from an Ajax call",
   technologies: ['HTML', 'CSS', 'JavaScript', 'jQuery', 'AJAX'],
@@ -28,12 +21,13 @@ var project_data = [
   date: '04/29/2019',
   project_url: 'https://dkahl3.github.io/FinalProject/',
   source_url: 'https://github.com/dkahl3/FinalProject'
+},{
+  title: "Task Manager App",
+  description: "display information about the news and weather in your area",
+  technologies: ['HTML', 'CSS', 'JavaScript','PHP', 'jQuery', 'MySQL'],
+  date: '04/29/2019',
+  project_url: 'https://dkahl3.github.io/FinalProject/',
+  source_url: 'https://github.com/dkahl3/FinalProject'
 }
-
-
-
-
-
-
 
 ]
